@@ -11,9 +11,8 @@
             <ion-title size="large">composant</ion-title>
           </ion-toolbar>
         </ion-header>
-        
-
-        <!-- tita -->
+        <div class="w-[98%] mx-auto">
+          <!-- tita -->
 
 
         <!-- fin tita -->
@@ -23,6 +22,7 @@
         <!-- stevy -->
         <ButtonPrimary color="signup" />
         <!-- fin stevy -->
+        </div>
       </ion-content>
     </ion-page>
   </template>
